@@ -1,0 +1,56 @@
+title{
+    color: black;
+}
+
+.menu{
+    color: white;
+    padding: 40px;
+    font-size: 20px;
+    background-image: url(imagenes/cabecera.jpg);
+    
+}
+.link{
+    padding-left: 70%;
+}
+a{
+    padding: 10px;
+}
+.imagenes img{
+    width: 70px;
+    height: 70px;  
+    border-radius: 30px;
+}
+.recomend{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.13);
+
+}
+.menu_encuadrado{
+    display: flex;
+    justify-content: space-around;
+}
+.encabezada h1{
+    color: white;
+    text-align: center;
+}
+.encabezada{
+    background-image: url(imagenes/biblio2.jpeg);
+    height: 160px; 
+    width: 160px;    
+}
+.sobre{
+    text-align: center;
+    background-color: rgba(97, 94, 92, 0.422);
+    width: 100%;
+    padding: 10px;
+    font-size: 50px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
